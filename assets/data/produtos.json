@@ -1,0 +1,18 @@
+[
+  { "nome": "Parafuso 10mm", "preco": "R$ 1,20", "imagem": "parafuso.jpeg" },
+  { "nome": "Chave Philips", "preco": "R$ 12,50", "imagem": "chave-phi.jpeg" },
+  { "nome": "Correia A23", "preco": "R$ 23,00", "imagem": "correia.png" },
+  { "nome": "Rolamento 6201", "preco": "R$ 18,40", "imagem": "rolamento.png" },
+  { "nome": "Bomba 1/2CV", "preco": "R$ 320,00", "imagem": "bomba.jpeg" },
+  { "nome": "Broca 6mm", "preco": "R$ 4,90", "imagem": "broca.jpeg" },
+  { "nome": "Spray Desengripante", "preco": "R$ 10,00", "imagem": "whitelub.png" },
+  { "nome": "Martelo", "preco": "R$ 27,90", "imagem": "martelo.jpeg" },
+  { "nome": "Chave de Fenda", "preco": "R$ 11,00", "imagem": "fenda.jpeg" },
+  { "nome": "Alicate", "preco": "R$ 25,00", "imagem": "alicate.jpeg" },
+  { "nome": "Parafusadeira", "preco": "R$ 220,00", "imagem": "parafusadeira.jpg" },
+  { "nome": "Luva de Proteção", "preco": "R$ 8,00", "imagem": "luva.jpeg" },
+  { "nome": "Máscara PFF2", "preco": "R$ 3,50", "imagem": "mascara.jpg" },
+  { "nome": "Motor GE 700", "preco": "R$ 7--,00", "imagem": "motor.jpg" },
+  { "nome": "Chave Inglesa", "preco": "R$ 35,00", "imagem": "chaveinglesa.jpeg" },
+  { "nome": "Orbi car", "preco": "R$ 18,00", "imagem": "orbi-car.jpeg" }
+]

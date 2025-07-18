@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Kawashima",
+    "logo": "kawashima.png",
+    "fundo": "kawashima-bg.jpg"
+  },
+  {
+    "nome": "Kajima",
+    "logo": "kajima.png",
+    "fundo": "kajima-bg.jpg"
+  },
+  {
+    "nome": "Nakashi",
+    "logo": "nakashi.png",
+    "fundo": "nakashi-bg.jpg"
+  },
+  {
+    "nome": "Fertak",
+    "logo": "fertak.png",
+    "fundo": "fertak-bg.jpg"
+  },
+  {
+    "nome": "Vonder",
+    "logo": "vonder.png",
+    "fundo": "vonder-bg.jpg"
+  },
+  {
+    "nome": "Gedore",
+    "logo": "gedore.png",
+    "fundo": "gedore-bg.jpg"
+  },
+  {
+    "nome": "Ciser",
+    "logo": "ciser.png",
+    "fundo": "ciser-bg.jpg"
+  },
+  {
+    "nome": "Belenus",
+    "logo": "belenus.png",
+    "fundo": "belenus-bg.jpg"
+  },
+  {
+    "nome": "GBR",
+    "logo": "gbr.png",
+    "fundo": "gbr-bg.jpg"
+  },
+  {
+    "nome": "Orbi",
+    "logo": "orbi.png",
+    "fundo": "orbi-bg.jpg"
+  }
+]
